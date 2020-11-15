@@ -1,2 +1,2 @@
 my:
-  change: "this.project.version=5,env=dev"
+  change: "this.project.version=6,env=dev"
